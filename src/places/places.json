@@ -77,15 +77,10 @@
         ],
         "_id": "36kvt9jgkja481c6",
         "ownerEmail": "simonacossaipersonal@gmail.com",
-        "booking": [
-            {
-                "name": "Simona Cossai",
-                "email": "cossaisimona@gmail.com"
-            }
-        ]
+        "booking": []
     },
     {
-        "title": "Dalla Patty- Intero appartamento",
+        "title": "Dalla Patty- Intero appartamento Secondo piano",
         "description": "Appartamento al primo piano di casa singola, ingresso indipendente, zona tranquilla, servita da mezzi pubblici, nelle vicinanze strada statale e autostrade. In zona supermercati, ristoranti.Confortevole e luminoso appartamento mansardato, composto da soggiorno, cucina camera da letto e bagno. La camera con un letto matrimoniale e uno singolo. Possibilità di aggiungere un altro letto singolo.Cucina accessoriata. Biancheria da bagno e da letto fornita. Parcheggi in prossimità dell'alloggio. Altre cose da tenere a mente a disposizione dei miei ospiti macchina del caffè con cialde, e pasticceria casalinga di benvenuto. Al check in verranno richiesti i documenti degli ospiti per assolvere alle pratiche previste dalla normativa vigente",
         "rate": 4.2,
         "roominfo": [
@@ -109,33 +104,6 @@
             "https://res.cloudinary.com/chickenslapped/image/upload/v1609338537/places/ujkaxfctivvtlj1rl1cr.jpg"
         ],
         "_id": "36kvtkmkkjbim39z",
-        "booking": []
-    },
-    {
-        "title": "Woodland cabin in Stoke Newington, Central London.",
-        "description": "The Woodland Cabin is unique - a delightful spacious cabin, with wi-fi, kitchenette, in Central London, set within its own pretty woodland and featuring a private terrace. INDEPENDENT 24/7 ACCESS. Secure and safe. As you will see from our guest reviews, the cabin is an oasis of tranquility, but with easy access to the bright lights of Soho theatre-land and funky Dalston & Shoreditch. You will adore it! The cabin sleeps 2 people. The large double bed is exceptionally comfortable. For guests that prefer 2 single beds, we can arrange this without difficulty. We can also provide a child’s bed for a baby or toddler. The cabin is safe, secure and independently accessed, so you're free to come and go as you please. ",
-        "rate": 4,
-        "roominfo": [
-            "Animali domestici non ammessi",
-            "Non è consentito fumare",
-            "Permesso organizzare feste/eventi"
-        ],
-        "address": {
-            "city": "London",
-            "street": "Cloth Street",
-            "country": "England",
-            "zip-code": "EC1A 4LJ",
-            "latitude": "51.520541",
-            "longitude": "-0.097881"
-        },
-        "image": [
-            "https://res.cloudinary.com/chickenslapped/image/upload/v1609253899/places/ftukep4wzt4swhvk2n5h.jpg",
-            "https://res.cloudinary.com/chickenslapped/image/upload/v1609253899/places/sxfl2klnna3evdth6k90.jpg",
-            "https://res.cloudinary.com/chickenslapped/image/upload/v1609253899/places/uezgj1ow9gcypmorkron.jpg",
-            "https://res.cloudinary.com/chickenslapped/image/upload/v1609253899/places/geiex82tuyo3nwtpyz4m.jpg"
-        ],
-        "_id": "36kvt9jgkja481c6",
-        "ownerEmail": "simonacossaipersonal@gmail.com",
         "booking": []
     }
 ]

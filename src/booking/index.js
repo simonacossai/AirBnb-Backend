@@ -2,8 +2,6 @@ const express = require("express")
 const path = require("path")
 const fs = require("fs-extra")
 const { check, validationResult } = require("express-validator")
-//const generatePdf = require("../lib/pdf")
-//const sendEmailWithAttachment = require("../lib/email")
 const router = express.Router()
 const bookingFilePath = path.join(__dirname, "booking.json")
 const placesFilePath = path.join(__dirname, "..", "places", "places.json")
@@ -15,7 +13,6 @@ const placesValidation = [
     check("startDate").exists().withMessage("start date is required"),
     check("endDate").exists().withMessage("end date is required"),
   ]  
-
 
 const readFile = async path => {
   const buffer = await fs.readFile(path)
@@ -41,7 +38,7 @@ router.post("/:id", async (req, res, next) => {
       error.httpStatusCode = 404
       return next(error)
     }
-    await writeFile([...placesList, place])
+    await writeFile([...placesList])
     res.status(201).send(place)
   } catch (e) {
     console.log(e)
